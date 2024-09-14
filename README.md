@@ -12,4 +12,4 @@ Welcome to **FinTech**—my personal repository for tracking and showcasing my j
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/FinTech.git
+   git clone https://github.com/praj-tarun/FinTech.git
